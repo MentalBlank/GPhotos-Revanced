@@ -12,3 +12,9 @@
 
 ## Disclaimer
 This patch modifies the original APK, and may violate the app provider's terms of service. Use at your own risk.
+
+## Other Apps:
+[Google Photos](https://github.com/MentalBlank/GPhotos-Revanced) | [YouTube](https://github.com/MentalBlank/YouTube-Revanced) | [FB Messenger](https://github.com/MentalBlank/Messenger-Revanced) | [Reddit](https://github.com/MentalBlank/Reddit-Revanced) | [TikTok](https://github.com/MentalBlank/Tiktok-Revanced)
+
+## Thanks To:
+[j-hc](https://github.com/j-hc) & [ReVanced](https://github.com/ReVanced)
