@@ -179,7 +179,7 @@ rm -rf temp/tmp.*
 if [ -z "$(ls -A1 ${BUILD_DIR})" ]; then abort "All builds failed."; fi
 
 log "\nRemember to Install [Microg](https://github.com/ReVanced/GmsCore/releases) OR [MicroG-RE](https://github.com/WSTxda/MicroG-RE)"
-log "Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root the app from Play Store"
+log "Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root the app from Play Store\n"
 log "$(cat $TEMP_DIR/*-rv/changelog.md)"
 
 SKIPPED=$(cat $TEMP_DIR/skipped 2>/dev/null || :)
